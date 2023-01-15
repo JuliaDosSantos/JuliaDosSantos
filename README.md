@@ -17,7 +17,7 @@ Skills: Dev backend (Java)
 </div><br/>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaDosSantos&hide=pascal&layout=compact&theme=dark#gh-dark-mode-only)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaDosSantos&hide=pascal&layout=compact&theme=dark#gh-dark-mode-only)
 
 ## Tecnhnologies currently being study 
 
