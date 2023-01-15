@@ -5,7 +5,7 @@
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](santos.ju1995@gmail.com)
 
 
-![Julia dos Santos GitHub stats](https://github-readme-stats.vercel.app/api?username=JuliaDosSantos&show_icons=true&theme=tokyonight)
+![Julia dos Santos GitHub stats](https://julia-dos-santos.vercel.app/api?username=JuliaDosSantos&show_icons=true&theme=tokyonight)
 
 ## About me
 Live in: Indaial - SC - Brazil
